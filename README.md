@@ -28,7 +28,7 @@ I'm a final student pursuing Bachelors's in Information Technology 🎓 from Pun
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
 - 📫 How to reach me: makodehrushikesh@gmail.com 
-- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript,Bootstrap,React,MySQL, Git, etc.
+- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript,Bootstrap,React,MySQL,JSP,Git, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:makodehrushikesh@gmail.com?Subject=Hello%20Hrushikesh) 👨‍💻.
 
