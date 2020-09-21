@@ -30,4 +30,4 @@ I'm a final student pursuing Bachelors's in Information Technology 🎓 from Pun
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HrushiMakode&show_icons=true&hide_border=true)
 
-⭐️ From [iampavangandhi](https://github.com/HrushiMakode)
+⭐️ From [Hrushikesh Makode](https://github.com/HrushiMakode)
