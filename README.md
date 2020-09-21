@@ -9,8 +9,8 @@
 <a href="https://www.hackerrank.com/hrushi_makode">
   <img align="left" alt="Hrushikesh's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://www.hackerrank.com/hrushi_makode">
-  <img align="left" alt="Pavan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://www.codechef.com/users/hrushi_makode">
+  <img align="left" alt="Hrushikesh's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br />
 
