@@ -1,4 +1,4 @@
-## Hello World!, I am Hrushikesh Makode <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"></h2>
+## Hello World!, I am Hrushikesh Makode
 
 <a href="https://www.codechef.com/users/hrushi_makode">
   <img align="left" alt="Hrushikesh's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
